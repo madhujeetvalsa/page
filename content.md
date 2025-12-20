@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to this beautiful notebook page. This design captures the ##essence## of a classic paper notebook with its distinctive lined pattern and elegant typography. Each line of text is carefully aligned to match the notebook lines, creating an ##authentic handwritten appearance##.
+Welcome1 to this beautiful notebook page. This design captures the ##essence## of a classic paper notebook with its distinctive lined pattern and elegant typography. Each line of text is carefully aligned to match the notebook lines, creating an ##authentic handwritten appearance##.
 
 The responsive design ensures that whether you're viewing this on a large desktop monitor, a tablet, or a mobile phone, the notebook aesthetic remains intact and beautiful. The layout adapts ##seamlessly## to different screen sizes while maintaining the characteristic notebook appearance.
 
