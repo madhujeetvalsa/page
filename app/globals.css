@@ -138,17 +138,6 @@ body {
   font-weight: 400;
 }
 
-/* Drop cap - first letter larger */
-.notebook-text::first-letter {
-  font-size: 2em;
-  font-weight: 700;
-  line-height: 1;
-  float: left;
-  margin-right: 4px;
-  margin-top: -2px;
-  color: #2c3e50;
-}
-
 /* Highlighter effect */
 .notebook-highlight {
   background: linear-gradient(100deg, rgba(255, 250, 150, 0.8) 0%, rgba(255, 252, 200, 0.6) 100%);
@@ -157,6 +146,7 @@ body {
   border-radius: 2px;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
+  font-weight: bold;
 }
 
 /* Signature */
