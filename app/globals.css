@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Caveat:wght@400;700&display=swap');
 @import "tailwindcss";
 
 :root {
@@ -10,6 +11,8 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-handwriting: var(--font-kalam);
+  --font-signature: var(--font-caveat);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -20,7 +23,316 @@
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #e8e4d9;
+}
+
+/* Notebook Page Styles */
+.notebook-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background: linear-gradient(135deg, #d4cfc0 0%, #e8e4d9 50%, #d4cfc0 100%);
+}
+
+.notebook-container {
+  position: relative;
+  width: 100%;
+  max-width: 850px;
+  min-height: 90vh;
+  background: linear-gradient(to bottom, #fefcf7 0%, #f9f7f0 100%);
+  box-shadow: 
+    0 2px 5px rgba(0, 0, 0, 0.1),
+    0 10px 30px rgba(0, 0, 0, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  border-radius: 4px;
+  padding: 3rem 2rem 3rem 5rem;
+  
+  /* Notebook lines background - darker gray/black shades */
+  background-image: 
+    repeating-linear-gradient(
+      transparent,
+      transparent 31px,
+      #c8c8c8 31px,
+      #c8c8c8 32px
+    );
+  background-size: 100% 32px;
+  background-position: 0 3.5rem;
+  
+  /* Paper texture */
+  background-blend-mode: multiply;
+}
+
+.notebook-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: 
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' /%3E%3C/filter%3E%3Crect width='100' height='100' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+  pointer-events: none;
+  border-radius: 4px;
+}
+
+/* Left margin line */
+.margin-line {
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(to bottom, 
+    transparent 0%, 
+    #e8a5a5 2%, 
+    #e8a5a5 98%, 
+    transparent 100%
+  );
+  box-shadow: 1px 0 0 rgba(232, 165, 165, 0.3);
+}
+
+/* Content Area */
+.notebook-content {
+  position: relative;
+  z-index: 1;
+}
+
+/* Title */
+.notebook-title {
+  font-size: clamp(1.75rem, 5vw, 2.5rem);
+  font-weight: 700;
+  color: #2c3e50;
+  margin: 0 0 0.5rem 0;
+  line-height: 32px;
+  font-family: 'Kalam', cursive, sans-serif !important;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+  letter-spacing: 0.3px;
+}
+
+/* Date */
+.notebook-date {
+  font-size: clamp(0.875rem, 2vw, 1rem);
+  color: #7f8c8d;
+  margin: 0 0 2rem 0;
+  line-height: 32px;
+  font-style: normal;
+  font-family: 'Kalam', cursive, sans-serif !important;
+  font-weight: 300;
+}
+
+/* Paragraph Text */
+.notebook-text {
+  font-size: clamp(0.95rem, 2.5vw, 1.125rem);
+  line-height: 32px;
+  color: #34495e;
+  margin: 0 0 48px 0;
+  text-align: justify;
+  font-family: 'Kalam', cursive, sans-serif !important;
+  letter-spacing: 0.2px;
+  word-spacing: 0.5px;
+  font-weight: 400;
+}
+
+/* Drop cap - first letter larger */
+.notebook-text::first-letter {
+  font-size: 2em;
+  font-weight: 700;
+  line-height: 1;
+  float: left;
+  margin-right: 4px;
+  margin-top: -2px;
+  color: #2c3e50;
+}
+
+/* Highlighter effect */
+.notebook-highlight {
+  background: linear-gradient(100deg, rgba(255, 250, 150, 0.8) 0%, rgba(255, 252, 200, 0.6) 100%);
+  padding: 0 4px;
+  margin: 0 -2px;
+  border-radius: 2px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* Signature */
+.notebook-signature {
+  font-size: clamp(1rem, 2.5vw, 1.125rem);
+  line-height: 32px;
+  color: #5a6c7d;
+  margin: 32px 0 0 0;
+  text-align: right;
+  font-style: normal;
+  font-family: 'Caveat', cursive, sans-serif !important;
+  letter-spacing: 0.3px;
+  font-weight: 700;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .notebook-page {
+    padding: 0.5rem;
+    align-items: flex-start;
+  }
+  
+  .notebook-container {
+    padding: 2.5rem 1.5rem 2.5rem 3.5rem;
+    min-height: auto;
+    max-width: 100%;
+    margin: 0.5rem 0;
+    background-size: 100% 30px;
+    background-image: 
+      repeating-linear-gradient(
+        transparent,
+        transparent 29px,
+        #c8c8c8 29px,
+        #c8c8c8 30px
+      );
+    background-position: 0 3.5rem;
+  }
+  
+  .margin-line {
+    left: 2.5rem;
+  }
+  
+  .notebook-title {
+    font-size: 2rem;
+    line-height: 30px;
+  }
+  
+  .notebook-date {
+    font-size: 0.95rem;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .notebook-text {
+    font-size: 1rem;
+    line-height: 30px;
+    margin-bottom: 30px;
+    text-align: left;
+  }
+  
+  .notebook-signature {
+    font-size: 1rem;
+    line-height: 30px;
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  .notebook-page {
+    padding: 0.25rem;
+  }
+  
+  .notebook-container {
+    padding: 1.5rem 0.5rem 1.5rem 1.75rem;
+    background-position: 0 2.5rem;
+    max-width: 100%;
+    background-size: 100% 26px;
+    background-image: 
+      repeating-linear-gradient(
+        transparent,
+        transparent 25px,
+        #c8c8c8 25px,
+        #c8c8c8 26px
+      );
+  }
+  
+  .margin-line {
+    left: 1.25rem;
+  }
+  
+  .notebook-title {
+    margin-bottom: 0rem;
+    font-size: 1.35rem;
+    line-height: 26px;
+    padding-bottom: 0px;
+  }
+  
+  .notebook-date {
+    margin-bottom: 26px;
+    font-size: 0.8rem;
+    line-height: 26px;
+  }
+  
+  .notebook-text {
+    font-size: 0.8rem;
+    line-height: 26px;
+    margin-bottom: 26px;
+    word-break: normal;
+    hyphens: none;
+    text-align: left;
+    overflow-wrap: break-word;
+  }
+  
+  .notebook-signature {
+    font-size: 0.8rem;
+    line-height: 26px;
+    margin-top: 26px;
+  }
+}
+
+/* Extra small mobile screens (300-360px) */
+@media (max-width: 360px) {
+  .notebook-page {
+    padding: 0.15rem;
+  }
+  
+  .notebook-container {
+    padding: 1.25rem 0.4rem 1.25rem 1.5rem;
+    background-position: 0 2.25rem;
+    background-size: 100% 24px;
+    background-image: 
+      repeating-linear-gradient(
+        transparent,
+        transparent 23px,
+        #c8c8c8 23px,
+        #c8c8c8 24px
+      );
+  }
+  
+  .margin-line {
+    left: 1rem;
+  }
+  
+  .notebook-title {
+    font-size: 1.25rem;
+    line-height: 24px;
+  }
+  
+  .notebook-date {
+    margin-bottom: 24px;
+    font-size: 0.75rem;
+    line-height: 24px;
+  }
+  
+  .notebook-text {
+    font-size: 0.75rem;
+    line-height: 24px;
+    margin-bottom: 24px;
+  }
+  
+  .notebook-signature {
+    font-size: 0.75rem;
+    line-height: 24px;
+    margin-top: 24px;
+  }
+}
+
+
+/* Print styles */
+@media print {
+  .notebook-page {
+    background: white;
+  }
+  
+  .notebook-container {
+    box-shadow: none;
+    max-width: 100%;
+  }
 }
