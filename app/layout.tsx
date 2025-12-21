@@ -40,7 +40,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${kalam.variable} ${caveat.variable} antialiased`}
       >
-      <SpeedInsights />
+        <SpeedInsights />
         {children}
       </body>
     </html>
