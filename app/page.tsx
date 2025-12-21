@@ -8,7 +8,7 @@ export default function Home() {
   const fileContents = fs.readFileSync(filePath, "utf8");
 
   // Parse the markdown file
-  const { data, content } = matter(fileContents);
+  const { content } = matter(fileContents);
 
   // Extract title (first # heading)
   const titleMatch = content.match(/^#\s+(.+)/m);
@@ -29,7 +29,7 @@ export default function Home() {
   const signature = signatureMatch ? signatureMatch[1] : "Written with care";
 
   // Clean content: remove title, date, signature, and --- lines
-  let cleanContent = content
+  const cleanContent = content
     .replace(/^#\s+.+$/m, "") // Remove title line
     .replace(/\*\*Date:\*\*\s*.+$/m, "") // Remove date line
     .replace(/\*\*Signature:\*\*\s*.+$/m, "") // Remove signature line
