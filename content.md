@@ -27,9 +27,9 @@ And then nandini akka mitoni matladindi and miru annnaru i want to focus on my s
 
 Ninu mimal toni matladaniki try chesina naku ee confidence undi ki I don't have enough confidence mimal toni matladaniki that's why I write this message.
 
-I don't know but mimal ni first time ninchali last time ninu solapur lo unapudu ninu observe chesinde and ##I don't know but me presence and me voice winte ae do happiness feel ayindi.## At last one last message is
+I don't know but mimal ni first time ninchali last time ninu solapur lo unapudu ninu observe chesinde and ##I don't know but me presence and me voice winte ae do happiness feel ayindi.## At last one last message is.
 
-##I have a feelings for you, and I like you ✨ .##
+I have a feelings for you, and I like you ✨ .
 
 I know ki final answer is mimal de, take your time and then take the right decision but I hope for the best.
 
