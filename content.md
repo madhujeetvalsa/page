@@ -1,20 +1,48 @@
-# My Notebook
+# At Last, My Feelings in the Words💝✨
 
-**Date:** December 20, 2025
-
----
-
-He knew what he was supposed to do. That had been apparent from the beginning. That was what made the choice so difficult. What he was supposed to do and what he would do were not the same. This would have been fine if he were willing to face the inevitable consequences, but he wasn't.
-It was hidden under the log beside the stream. It had been there for as long as Jerry had been alive. He wasn't sure if anyone besides him and his friends knew of its existence. He knew that anyone could potentially find it, but it was well enough hidden that it seemed unlikely to happen. The fact that it had been there for more than 30 years attested to this. So it was quite a surprise when he found the item was missing.
-She reached her goal, exhausted. Even more chilling to her was that the euphoria that she thought she'd feel upon reaching it wasn't there. Something wasn't right. Was this the only feeling she'd have for over five years of hard work?
-It had been her dream for years but Dana had failed to take any action toward making it come true. There had always been a good excuse to delay or prioritize another project. As she woke, she realized she was once again at a crossroads. Would it be another excuse or would she finally find the courage to pursue her dream? Dana rose and took her first step.
-It had become a far too common an event in her life. She has specifically placed the key to the box in a special place so that she wouldn't lose it and know exactly where it was when the key was needed. Now that she needed to open the box, she had absolutely no idea where that special spot she placed the key might be.
-Wandering down the path to the pond had become a daily routine. Even when the weather wasn't cooperating like today with the wind and rain, Jerry still took the morning stroll down the path until he reached the pond. Although there didn't seem to be a particular reason Jerry did this to anyone looking in from the outside, those who knew him well knew exactly what was going on. It could all be traced back to a specific incident that happened exactly 5 years previously.
-The red glow of tail lights indicating another long drive home from work after an even longer 24-hour shift at the hospital. The shift hadn’t been horrible but the constant stream of patients entering the ER meant there was no downtime. She had some of the “regulars” in tonight with new ailments they were sure were going to kill them. It’s amazing what a couple of Tylenol and a physical exam from the doctor did to eliminate their pain, nausea, headache, or whatever other mild symptoms they had. Sometimes she wondered if all they really needed was some interaction with others and a bit of the individual attention they received from the nurses.
-Stranded. Yes, she was now the first person ever to land on Venus, but that was of little consequence. Her name would be read by millions in school as the first to land here, but that celebrity would never actually be seen by her. She looked at the control panel and knew there was nothing that would ever get it back into working order. She was the first and it was not clear this would also be her last.
-There was something special about this little creature. Donna couldn't quite pinpoint what it was, but she knew with all her heart that it was true. It wasn't a matter of if she was going to try and save it, but a matter of how she was going to save it. She went back to the car to get a blanket and when she returned the creature was gone.
-The box sat on the desk next to the computer. It had arrived earlier in the day and business had interrupted her opening it earlier. She didn't who had sent it and briefly wondered who it might have been. As she began to unwrap it, she had no idea that opening it would completely change her life.
+**Date:** December 28, 2025
 
 ---
 
-**Signature:** Written with care
+Hii Teju,
+
+I am Jeetu, miru nannu nandini akka wedding lo chuside kaochu. This was the first time ninu itla okka female person ki itla message ratana is there any mistake please first ee I am sorry. I don't know ee message miku epudu deliver aytato.but ninu me to ni matladaniki try cheside during wedding functions but nalo enough **confidence** rale mito directly matladaniki that's why ninu ee message lo ratana.
+Take a deep **breaths** and then start reading.
+
+First time ninu mimal ni nandini akka haldi lo chuside, miru anni panulu as decoration ninchi flower selection, anni panulu chestande. That's first time ninu mimalni observe chesinde. and I don't know but ae do **happiness** feel ayindi and next time ninu ankunka ki ninu miku wedding hall lo ne chusta but.
+
+Second time ninu ankuna ki ninu mitoni matladaniki try chesta at wedding hall. But **god's have different plan.** Ninu I don't know but morning lone Ram toni i guess mi house ke ochinde and there I see Second time and I am shocked that's miru and me friend only both mire wedding dress prepare chestande, endukante naku guda okka sister undhi but ninu single time kuda observe cheyale without my mummy na sister epudu prepare kale for any function and miru wedding dress prepare chestande. And then ninu wedding hall lo chana sepu wait chesina but miru rale and then after some time miru wedding hall lo enter aayaru.
+
+And one thing I am really sorry, ee words ninu mimal ni wedding hall lo ne cheputa ankunde but enough confidence rale mito matladaniki as **"Your Dress is very beautiful".**
+
+And after wedding chala sari me to matladaniki try cheside but that's **fear** and **confidence** rale direct mito matladaniki.
+
+But one thing me presence and me voice ente I don't but yedo **happiness** feel aytande and but mito matladaniki confidence ae rale.
+
+And Third time, the last day in solapur, ninu ankunaki ki na less confidence valla ninu i guess me toni epudu kalava ani occa regret unde. Aa stage mida Apudu nandini akka and mi friend round chair aesukoni matladtante andar toni eye contact ayindi but I don't have enough confidence ki ninu mitoni **eye contact** kuda cheyale.
+
+At the end ninu ankuna ki I **lost** her but last time try chesi sudam ani ninu nandini akka to share cheside.
+
+And then nandini akka mitoni matladindi and miru annnaru i want to focus on my studies that's one points also **hits** me. I am also completed my graduation in B.tech Computer Engineering I know ki studies is equal importance. Naku kuda okka sister undi I want ke she also completed that's studies first. ninu miku studies lo epudu any **blocker** ranivanu.
+
+Ninu mimal toni matladaniki try chesina naku ee confidence undi ki I don't have enough confidence mimal toni matladaniki that's why I write this message.
+
+I don't know but mimal ni first time ninchali last time ninu solapur lo unapudu ninu observe chesinde and **I don't know but me presence and me voice winte ae do happiness feel ayindi.** At last one last message is:
+
+**" I have a feelings for you, and I like you ✨ ."**
+
+I know ki final answer is mimal de, take your time and then take the right decision but I hope for the best.
+
+If your answer is **"Yes"** then ninu make sure chesta ki me ee decision lifelong epudu regret feel avaru.ninu miku studies lo kuda help chesta. Take your time, i will wait for you. And one thing miru ande the **"time"** in relationship I don't want ke miru mi studies miss chesi matladandi but once in a day only 2 minutes from you 24 hours matladite that's makes my day **feels better**. and one thing miru na number **Madhu** ani save cheyochu because na full name is **Madhujeet** and current not a single one naku madhu ani pilvale.
+
+And if your answer is **"No"** then its okay I will respect your decision but is there any reason of "time" and miru **interested** unte i will wait for you. Is there any other person in your mind then i will respect your decision and ninu miku epudu contact cheyaniki try cheyanu at last is there any changes needs in me please Chepandi ninu dani mida works chesta and if any reason and adhi na chetulo unte i will try my best to get you. at last i want only one favor as what is the reason only one thing ninu me kanchali expect chesta at last adhi kidu miru direct instagram lo cheputa ante kuda okay or miru nandini akka toni chepte kuda it's okay.
+
+But at last ninu chala ne wedding attend chesina close once nichali friends and duram relatives ee kuda but first time mimal ni chusinanka I don't know ee do new feelings unlock ayindi I don't know ke aa feeling i cannot express that's feelings and happiness adhi ninu mi face cusinapudu that's was the feeling from my hearts as fully happy and  Thank you so much to introduce this feeling, Teju💝.
+
+At last , If mi decision na favor lo undani or against of my favor. But I will respect your decision endukante Ma parents nerpichinaru ki Respect every girl.
+
+And one more things for Nandini Akka Thank you so much and as well as Sorry. You have tried so much time and miru kuda try cheinde for that's Again Thank you so much and ninu miku chala message chesi pareshan chesinde for that's Sorry.
+
+---
+
+**Signature:** Written the the words come from my Hearts 💕✨
