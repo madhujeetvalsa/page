@@ -13,7 +13,7 @@ First time ninu mimal ni nandini akka haldi lo chuside, miru anni panulu as deco
 
 Second time ninu ankuna ki ninu mitoni matladaniki try chesta at wedding hall. But ##god's have different plan.## Ninu I don't know but morning lone Ram toni i guess mi house ke ochinde and there I see Second time and I am shocked that's miru and me friend only both mire wedding dress prepare chestande, endukante naku guda okka sister undhi but ninu single time kuda observe cheyale without my mummy na sister epudu prepare kale for any function and miru wedding dress prepare chestande. And then ninu wedding hall lo chana sepu wait chesina but miru rale and then after some time miru wedding hall lo enter aayaru.
 
-And one thing I am really sorry, ee words ninu mimal ni wedding hall lo ne cheputa ankunde but enough confidence rale mito matladaniki as ##"Your Dress is very beautiful".##
+And one thing I am really sorry, ee words ninu mimal ni wedding hall lo ne cheputa ankunde but enough confidence rale mito matladaniki as ##"Your Dress is very beautiful 🧿".##
 
 And after wedding chala sari me to matladaniki try cheside but that's ##fear## and ##confidence## rale direct mito matladaniki.
 
