@@ -60,8 +60,8 @@ export default function Home() {
 
           {/* Paragraphs */}
           {paragraphs.map((paragraph, index) => {
-            // Parse ##highlight## syntax
-            const parts = paragraph.split(/(##.*?##)/g);
+            // Parse ##highlight## and [text](url) syntax
+            const parts = paragraph.split(/(##.*?##|\[.*?\]\(.*?\))/g);
             return (
               <p key={index} className="notebook-text">
                 {parts.map((part, i) => {
@@ -72,6 +72,16 @@ export default function Home() {
                       </span>
                     );
                   }
+
+                  const linkMatch = part.match(/\[(.*?)\]\((.*?)\)/);
+                  if (linkMatch) {
+                    return (
+                      <a key={i} href={linkMatch[2]} className="notebook-link">
+                        {linkMatch[1]}
+                      </a>
+                    );
+                  }
+
                   return part;
                 })}
               </p>
