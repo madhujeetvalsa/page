@@ -13,7 +13,7 @@ First time ninu mimal ni nandini akka haldi lo chuside, miru anni panulu as deco
 
 Second time ninu ankuna ki ninu mitoni matladaniki try chesta at wedding hall. But ##god's have different plan.## Ninu I don't know but morning lone Ram toni i guess mi house ke ochinde and there I see Second time and I am shocked that's miru and me friend only both mire wedding dress prepare chestande, endukante naku guda okka sister undhi but ninu single time kuda observe cheyale without my mummy na sister epudu prepare kale for any function and miru wedding dress prepare chestande. And then ninu wedding hall lo chana sepu wait chesina but miru rale and then after some time miru wedding hall lo enter aayaru.
 
-And one thing I am really sorry, ee words ninu mimal ni wedding hall lo ne cheputa ankunde but enough confidence rale mito matladaniki as ##"Your Dress is very beautiful 🧿".##
+And one thing I am really sorry, ee words ninu mimal ni wedding hall lo ne cheputa ankunde but enough confidence rale mito matladaniki as ##"You looks so beautiful in that dress 🧿".##
 
 And after wedding chala sari me to matladaniki try cheside but that's ##fear## and ##confidence## rale direct mito matladaniki.
 
@@ -35,7 +35,7 @@ I know ki final answer is mimal de, take your time and then take the right decis
 
 If your answer is ##"Yes"## then ninu make sure chesta ki me ee decision lifelong epudu regret feel avaru.ninu miku studies lo kuda help chesta. Take your time, i will wait for you. And one thing miru ande the ##"time"## in relationship I don't want ke miru mi studies miss chesi matladandi but once in a day only 2 minutes from you 24 hours matladite that's makes my day ##feels better##. and one thing miru na number ##Madhu## ani save cheyochu because na full name is ##Madhujeet## and current not a single one naku madhu ani pilvale.
 
-And if your answer is ##"No"## then its okay I will respect your decision but is there any reason of "time" and miru ##interested## unte i will wait for you. Is there any other person in your mind then i will respect your decision and ninu miku epudu contact cheyaniki try cheyanu at last is there any changes needs in me please Chepandi ninu dani mida works chesta and if any reason and adhi na chetulo unte i will try my best to get you. at last i want only one favor as what is the reason only one thing ninu me kanchali expect chesta at last adhi kidu miru direct instagram lo cheputa ante kuda okay or miru nandini akka toni chepte kuda it's okay.
+And if your answer is ##"No"## then its okay I will respect your decision but is there any reason of "wait for some time" and miru kuda ##interested## unte i will wait for you. Is there any other person in your mind then i will respect your decision and ninu miku epudu contact cheyaniki try cheyanu at last is there any changes needs in me please Chepandi ninu dani mida works chesta and if any reason and adhi na chetulo unte i will try my best to get you. at last i want only one favor as what is the reason only one thing ninu me kanchali expect chesta at last adhi kidu miru direct instagram lo cheputa ante kuda okay or miru nandini akka toni chepte kuda it's okay.
 
 But at last ninu chala ne wedding attend chesina close once nichali friends and duram relatives ee kuda but first time mimal ni chusinanka I don't know ee do new feelings unlock ayindi I don't know ke aa feeling i cannot express that's feelings and happiness adhi ninu mi face cusinapudu that's was the feeling from my hearts as fully happy and  Thank you so much to introduce this feeling, Teju💝.
 
