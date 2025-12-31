@@ -1,6 +1,6 @@
-# Daily Quote
+# Meaning💝✨
 
-**Date:** December 30, 2025
+**Date:** December 20, 2025
 
 ---
 
@@ -9,4 +9,4 @@ ke main aawaa nazar tenu
 Laayak tere,
 kiven honwaa tu das mainu"
 
-**Author:** Steve Jobs
+**Author:** My Heart 💝✨
