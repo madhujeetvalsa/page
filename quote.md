@@ -4,9 +4,9 @@
 
 ---
 
-"This is the first line of the quote.
-This is the second line on a new line.
-Here is the third line for balance.
-And finally, the fourth line for completeness."
+"Ki main karaan,
+ke main aawaa nazar tenu
+Laayak tere,
+kiven honwaa tu das mainu"
 
 **Author:** Steve Jobs
