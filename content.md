@@ -33,15 +33,13 @@ I have a feelings for you, and I like you ✨.
 
 I know ki final answer is mimal de, take your time and then take the right decision but I hope for the best.
 
-If your answer is ##"Yes"## then ninu make sure chesta ki me ee decision lifelong epudu regret feel avaru.ninu miku studies lo kuda help chesta. Take your time, i will wait for you. And one thing miru ande the ##"time"## in relationship I don't want ke miru mi studies miss chesi matladandi but once in a day only 2 minutes from you 24 hours matladite that's makes my day ##feels better##. and one thing miru na number ##Madhu## ani save cheyochu because na full name is ##Madhujeet## and current not a single one naku madhu ani pilvale.
+If your answer is ##"Yes"## then ninu make sure chesta ki me ee decision lifelong epudu regret feel avaru.ninu miku studies lo kuda help chesta. and please instagram lo request accept cheyandi i will wait for that. Take your time, i will wait for you. And one thing miru ande the ##"time"## in relationship I don't want ke miru mi studies miss chesi matladandi but once in a day only 2 minutes from you 24 hours matladite that's makes my day ##feels better##. and one thing miru na number ##Madhu## ani save cheyochu because na full name is ##Madhujeet## and current not a single one naku madhu ani pilvale.
 
 And if your answer is ##"No"## then its okay I will respect your decision but is there any reason of "wait for some time" and miru kuda ##interested## unte i will wait for you. Is there any other person in your mind then i will respect your decision and ninu miku epudu contact cheyaniki try cheyanu at last is there any changes needs in me please Chepandi ninu dani mida works chesta and if any reason and adhi na chetulo unte i will try my best to get you. at last i want only one favor as what is the reason only one thing ninu me kanchali expect chesta at last adhi kidu miru direct instagram lo cheputa ante kuda okay or miru nandini akka toni chepte kuda it's okay.
 
 But at last ninu chala ne wedding attend chesina close once nichali friends and duram relatives ee kuda but first time mimal ni chusinanka I don't know ee do new feelings unlock ayindi I don't know ke aa feeling i cannot express that's feelings and happiness adhi ninu mi face cusinapudu that's was the feeling from my hearts as fully happy and  Thank you so much to introduce this feeling, Teju💝.
 
 At last , If mi decision na favor lo undani or against of my favor. But I will respect your decision endukante Ma parents nerpichinaru ki Respect every girl.
-
-At the Last, ##KMKKMANTLTKHTDM## [Meaning](/meaning)
 
 And one more things for Nandini Akka Thank you so much and as well as Sorry. You have tried so much time and miru kuda try cheinde for that's Again Thank you so much and ninu miku chala message chesi pareshan chesinde for that's Sorry.
 
