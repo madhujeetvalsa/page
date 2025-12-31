@@ -19,7 +19,7 @@ And after wedding chala sari me to matladaniki try cheside but that's ##fear## a
 
 But one thing me presence and me voice ente I don't but yedo ##happiness## feel aytande and but mito matladaniki confidence ae rale.
 
-And Third time, the last day in solapur, ninu ankunaki ki na less confidence valla ninu i guess me toni epudu kalava ani occa regret unde. Aa stage mida Apudu nandini akka and mi friend round chair aesukoni matladtante andar toni eye contact ayindi but I don't have enough confidence ki ninu mitoni ##eye contact## kuda cheyale.
+And Third time, the last day in solapur, ninu ankunaki ki na less confidence valla ninu i guess me toni epudu kalava ani okka regret unde. Aa stage mida Apudu nandini akka and mi friend round chair aesukoni matladtante andar toni eye contact ayindi but I don't have enough confidence ki ninu mitoni ##eye contact## kuda cheyale.
 
 At the end ninu ankuna ki I ##lost## her but last time try chesi sudam ani ninu nandini akka to share cheside.
 
