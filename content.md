@@ -29,15 +29,17 @@ Ninu mimal toni matladaniki try chesina naku ee confidence undi ki I don't have 
 
 I don't know but mimal ni first time ninchali last time ninu solapur lo unapudu ninu observe chesinde and ##I don't know but me presence and me voice winte ae do happiness feel ayindi.## At last one last message is.
 
-I have a feelings for you, and I like you ✨.
+I likes you 💝✨.
 
-I know ki final answer is mimal de, take your time and then take the right decision but I hope for the best.
+I know ki idhi ##awkward## feel aytadi miku and ee message ratante i feels so ##awkward## but na kadha ae chance ledu, i don't have your contact number, and naku me peru telisindhi kani tarwata kuda i wait for 1 weeks ke miku instagram request petala or odda but at last ninu miku request chesina on Instagram ani wait chesina for request accept and start normal talking but ##situations align kale.##
 
-If your answer is ##"Yes"## then ninu make sure chesta ki me ee decision lifelong epudu regret feel avaru.ninu miku studies lo kuda help chesta. and please instagram lo request accept cheyandi i will wait for that. Take your time, i will wait for you. And one thing miru ande the ##"time"## in relationship I don't want ke miru mi studies miss chesi matladandi but once in a day only 2 minutes from you 24 hours matladite that's makes my day ##feels better##. and one thing miru na number ##Madhu## ani save cheyochu because na full name is ##Madhujeet## and current not a single one naku madhu ani pilvale.
+I know ki final answer is mimal de but I hope for the best.🪷💝🌺
 
-And if your answer is ##"No"## then its okay I will respect your decision but is there any reason of "wait for some time" and miru kuda ##interested## unte i will wait for you. Is there any other person in your mind then i will respect your decision and ninu miku epudu contact cheyaniki try cheyanu at last is there any changes needs in me please Chepandi ninu dani mida works chesta and if any reason and adhi na chetulo unte i will try my best to get you. at last i want only one favor as what is the reason only one thing ninu me kanchali expect chesta at last adhi kidu miru direct instagram lo cheputa ante kuda okay or miru nandini akka toni chepte kuda it's okay.
+If miru kuda interested inte we can start talking on Instagram for that please accept the instagram request. And one thing miru ande the "time" in relationship I don't want ke miru mi studies miss chesi matladandi but ##once in a day## only 2 minutes from you 24 hours matladite that's makes my day better. and one thing miru na number Madhu ani save cheyochu because na full name is Madhujeet and current not a single one naku madhu ani pilvale.
 
-But at last ninu chala ne wedding attend chesina close once nichali friends and duram relatives ee kuda but first time mimal ni chusinanka I don't know ee do new feelings unlock ayindi I don't know ke aa feeling i cannot express that's feelings and happiness adhi ninu mi face cusinapudu that's was the feeling from my hearts as fully happy and  Thank you so much to introduce this feeling, Teju💝.
+And if miku interest lekunte or any other reason I will respect your decision but is there any reason of ##wait for some time## and miru interested unte i will wait for you. we can start normal conversation in instagram. If is there any other person in your mind then i will respect your decision and ninu miku epudu contact cheyaniki try cheyanu at last is there any changes needs in me please Chepandi ninu dani mida works chesta and at last i want only one favor as what is the reason only one thing ninu me kanchali expect chesta at last adhi kidu miru direct instagram lo cheputa ante kuda okay or miru nandini akka toni chepte kuda it's okay.
+
+But at last ninu chala ne wedding attend chesina close once nichali, friends and duram relatives ee kuda but first time mimal ni chusinanka I don't know ee do new feelings unlock ayindi I don't know ke aa feeling i cannot express that's feelings and happiness adhi ninu mi face cusinapudu that's was the feeling from my hearts as fully happy Thank you so much to introduce this feeling, Teju💝.
 
 At last , If mi decision na favor lo undani or against of my favor. But I will respect your decision endukante Ma parents nerpichinaru ki Respect every girl.
 
