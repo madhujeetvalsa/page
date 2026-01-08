@@ -1,4 +1,4 @@
-# At Last, My Feelings in the Words💝✨
+# At Last, My Words💝✨
 
 **Date:** December 28, 2025
 
@@ -7,7 +7,7 @@
 Hii Teju,
 
 I am Jeetu, miru nannu nandini akka wedding lo chuside kaochu. This was the first time ninu itla okka female person ki itla message ratana is there any mistake please first ee I am sorry. I don't know ee message miku epudu deliver aytato.but ninu me to ni matladaniki try cheside during wedding functions but nalo enough ##confidence## rale mito directly matladaniki that's why ninu ee message lo ratana.
-Take a deep ##breaths## and then start reading.
+Take a deep ##breath## and then start reading.
 
 First time ninu mimal ni nandini akka haldi lo chuside, miru anni panulu as decoration ninchi flower selection, anni panulu chestande. That's first time ninu mimalni observe chesinde. and I don't know but ae do ##happiness## feel ayindi and next time ninu ankunka ki ninu miku wedding hall lo ne chusta but.
 
@@ -33,9 +33,10 @@ I likes you 💝✨.
 
 I know ki idhi ##awkward## feel aytadi miku and ee message ratante i feels so ##awkward## but na kadha ae chance ledu, i don't have your contact number, and naku me peru telisindhi kani tarwata kuda i wait for 1 weeks ke miku instagram request petala or odda but at last ninu miku request chesina on Instagram ani wait chesina for request accept and start normal talking but ##situations align kale.##
 
-I know ki final answer is mimal de but I hope for the best.🪷💝🌺
+I know ki final answer is mimal de but I hope for the best.
+🪷💝🌺
 
-If miru kuda interested inte we can start talking on Instagram for that please accept the instagram request. And one thing miru ande the "time" in relationship I don't want ke miru mi studies miss chesi matladandi but ##once in a day## only 2 minutes from you 24 hours matladite that's makes my day better. and one thing miru na number Madhu ani save cheyochu because na full name is Madhujeet and current not a single one naku madhu ani pilvale.
+If miru kuda interested inte we can start talking on Instagram for that please accept the instagram request. And one thing miru ande the "time" in relationship I don't want ke miru mi studies miss chesi matladandi but ##once in a day## only 2 minutes from your 24 hours matladite that's makes my day better. and one thing miru na number Madhu ani save cheyochu because na full name is Madhujeet and current not a single one naku madhu ani pilvale.
 
 And if miku interest lekunte or any other reason I will respect your decision but is there any reason of ##wait for some time## and miru interested unte i will wait for you. we can start normal conversation in instagram. If is there any other person in your mind then i will respect your decision and ninu miku epudu contact cheyaniki try cheyanu at last is there any changes needs in me please Chepandi ninu dani mida works chesta and at last i want only one favor as what is the reason only one thing ninu me kanchali expect chesta at last adhi kidu miru direct instagram lo cheputa ante kuda okay or miru nandini akka toni chepte kuda it's okay.
 
