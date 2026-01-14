@@ -1,6 +1,6 @@
 # At Last, My Words💝✨
 
-**Date:** December 28, 2025
+**Date:** December 20, 2025
 
 ---
 
@@ -31,7 +31,7 @@ I don't know but mimal ni first time ninchali last time ninu solapur lo unapudu 
 
 I likes you 💝✨.
 
-I know ki idhi ##awkward## feel aytadi miku and ee message ratante i feels so ##awkward## but na kadha ae chance ledu, i don't have your contact number, and naku me peru telisindhi kani tarwata kuda i wait for 1 weeks ke miku instagram request petala or odda but at last ninu miku request chesina on Instagram ani wait chesina for request accept and start normal talking but ##situations align kale.##
+I know ki idhi ##awkward## feel aytadi miku and ee message ratante i feels so ##awkward## but na kadha ae chance ledu, i don't have your contact number, and naku me peru telisindhi kani tarwata kuda i wait for 2 weeks ke miku instagram request petala or odda but at last ninu miku request chesina on Instagram ani wait chesina for request accept and start normal talking but ##situations align kale.##
 
 I know ki final answer is mimal de but I hope for the best.
 🪷💝🌺
