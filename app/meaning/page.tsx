@@ -63,6 +63,16 @@ const Meaning = () => {
               {author && <cite className="quote-author">— {author}</cite>}
             </div>
           </div>
+
+          {/* Navigation Links */}
+          <div className="notebook-navigation">
+            <Link href="/" className="notebook-link">
+              Home
+            </Link>
+            <Link href="/efforts" className="notebook-link">
+              My Efforts
+            </Link>
+          </div>
         </div>
       </div>
     </div>

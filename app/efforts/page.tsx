@@ -3,17 +3,37 @@ import path from "path";
 import matter from "gray-matter";
 import Link from "next/link";
 
-export default function Home() {
-  // Read the content.md file
-  const filePath = path.join(process.cwd(), "content.md");
-  const fileContents = fs.readFileSync(filePath, "utf8");
+export default function EffortsPage() {
+  // Read the efforts.md file
+  const filePath = path.join(process.cwd(), "efforts.md");
+  let fileContents = "";
+  try {
+    fileContents = fs.readFileSync(filePath, "utf8");
+  } catch (error) {
+    return (
+      <div className="notebook-page">
+        <div className="notebook-container">
+          <div className="margin-line"></div>
+          <div className="notebook-content">
+            <h1 className="notebook-title">File Not Found</h1>
+            <p className="notebook-text">
+              Could not find efforts.md in the root directory.
+            </p>
+            <Link href="/" className="notebook-link">
+              Go Back
+            </Link>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   // Parse the markdown file
   const { content } = matter(fileContents);
 
   // Extract title (first # heading)
   const titleMatch = content.match(/^#\s+(.+)/m);
-  const title = titleMatch ? titleMatch[1] : "My Notebook";
+  const title = titleMatch ? titleMatch[1] : "My Efforts";
 
   // Extract date
   const dateMatch = content.match(/\*\*Date:\*\*\s*(.+)/);
@@ -53,6 +73,10 @@ export default function Home() {
 
         {/* Content Area */}
         <div className="notebook-content">
+          <div className="back-link">
+            <Link href="/">← Back to Notebook</Link>
+          </div>
+
           {/* Title */}
           <h1 className="notebook-title">{title}</h1>
 
@@ -94,8 +118,8 @@ export default function Home() {
 
           {/* Navigation Links */}
           <div className="notebook-navigation">
-            <Link href="/efforts" className="notebook-link">
-              My Efforts
+            <Link href="/" className="notebook-link">
+              Home
             </Link>
             <Link href="/meaning" className="notebook-link">
               Daily Quote
