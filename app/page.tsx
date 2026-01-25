@@ -91,16 +91,6 @@ export default function Home() {
 
           {/* Signature */}
           <p className="notebook-signature">{signature}</p>
-
-          {/* Navigation Links */}
-          <div className="notebook-navigation">
-            <Link href="/efforts" className="notebook-link">
-              My Efforts
-            </Link>
-            <Link href="/meaning" className="notebook-link">
-              Daily Quote
-            </Link>
-          </div>
         </div>
       </div>
     </div>
