@@ -6,7 +6,7 @@
 
 Hello Teju,
 
-As I promised, I want to show you the ##efforts## I am willing to put in for us. It's not just about words; it's about the actions and the small things that matter.
+As I promised, I want to show you the ##efforts## I am willing to put    in for us. It's not just about words; it's about the actions and the small things that matter.
 
 I am working on myself every day to be a better person for you. Whether it's my ##confidence##, my studies, or my career, I want to excel so that I can provide the best for our future.
 
