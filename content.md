@@ -46,6 +46,8 @@ But at last ninu chala ne wedding attend chesina close once nichali, friends and
 
 At last , If mi decision na favor lo undani or against of my favor. But I will respect your decision endukante Ma parents nerpichinaru ki Respect every girl.
 
+Thank you so much, to introduce that's feelings that's I can't experience in my past that's why thank you once again 🪷💝🌺
+
 ---
 
 **Signature:** Written the the words come from my Hearts 💕✨
