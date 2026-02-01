@@ -16,7 +16,7 @@ And one thing I am really sorry, ee words ninu mimal ni wedding hall lo ne chepu
 
 And after wedding chala sari me to matladaniki try cheside but that's ##fear## and ##confidence## rale direct mito matladaniki.
 
-But one thing me presence and me voice ente I don't but yedo ##happiness## feel aytande and but mito matladaniki confidence ae rale.
+But one thing me presence and me voice ente I don't know yedo ##happiness## feel aytande and but mito matladaniki confidence ae rale.
 
 And Third time, the last day in solapur, ninu ankunaki ki na less confidence valla ninu i guess me toni epudu kalava ani okka regret unde. Aa stage mida Apudu nandini akka and mi friend round chair aesukoni matladtante andar toni eye contact ayindi but I don't have enough confidence ki ninu mitoni ##eye contact## kuda cheyale.
 
@@ -39,7 +39,7 @@ If miru kuda interested inte we can start talking on Instagram for that accept t
 
 And if miku interest lekunte or any other reason I will respect your decision but is there any reason of ##wait for some time## and miru interested unte i will wait for you. we can start normal conversation in instagram. If is there any other person in your mind then i will respect your decision and ninu miku epudu contact cheyaniki try cheyanu at last is there any changes needs in me please Chepandi ninu dani mida works chesta and at last i want only one favor as what is the reason only one thing ninu me kanchali expect chesta at last adhi kudu miru direct instagram lo cheputa ante kuda okay or miru akka toni chepte kuda it's okay.
 
-If you don't likes me that's okay but as a well-wishers I give only one advice that's don't take any wrong decision please take some time and then take the final decision.
+If you don't likes me that's okay but as a well-wishers I give only one advice that's don't take any decision please take some time and then take the final decision.
 
 But at last ninu chala ne wedding attend chesina close once nichali, friends and duram relatives ee kuda but first time mimal ni chusinanka I don't know ee do new feelings unlock ayindi I don't know ke aa feeling i cannot express that's feelings and happiness adhi ninu mi face cusinapudu that's was the feeling from my hearts as fully happy Thank you so much to introduce this feeling, Teju💝.
 
