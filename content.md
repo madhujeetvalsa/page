@@ -6,7 +6,7 @@
 
 Hii Teju,
 
-I am Jeetu, miru nannu nandini akka wedding lo chuside kaochu. This was the first time ninu itla okka female person ki itla message ratana is there any mistake please first ee I am sorry. I don't know ee message miku epudu deliver aytato.but ninu me to ni matladaniki try cheside during wedding functions but nalo enough ##confidence## rale mito directly matladaniki that's why ninu ee message lo ratana.
+miru nannu nandini akka wedding lo chuside kaochu. This was the first time ninu itla okka female person ki itla message ratana is there any mistake please first ee I am sorry. I don't know ee message miku epudu deliver aytato.but ninu me to ni matladaniki try cheside during wedding functions but nalo enough ##confidence## rale mito directly matladaniki that's why ninu ee message lo ratana.
 Take a deep ##breath## and then start reading.
 
 First time ninu mimal ni nandini akka haldi lo chuside, miru anni panulu as decoration ninchi flower selection, anni panulu chestande. That's first time ninu mimalni observe chesinde. and I don't know but ae do ##happiness## feel ayindi and next time ninu ankunka ki ninu miku wedding hall lo ne chusta but.
