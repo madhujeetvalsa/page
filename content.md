@@ -24,6 +24,8 @@ At the end ninu ankuna ki I ##lost## her but last time try chesi sudam ani ninu 
 
 And then akka mitoni matladindi and miru annnaru i want to focus on my studies that's one points also ##hits## me. I am also completed my graduation in B.tech Computer Engineering I know ki studies is equal importance. Naku kuda okka sister undi I want ke she also completed that's studies first. ninu miku studies lo epudu any ##blocker## ranivanu.
 
+I know ki ninu miku wrong time lo kalisinamu but miku kida telusu ke a right person is always come at wrong time only. I want that you trust me, only one time try to understand me, I will be there for you at any place.
+
 Ninu mimal toni matladaniki try chesina naku ee confidence undi ki I don't have enough confidence mimal toni matladaniki that's why I write this message.
 
 I don't know but mimal ni first time ninchali last time ninu solapur lo unapudu ninu observe chesinde and ##I don't know but me presence and me voice winte ae do happiness feel ayindi.## At last one last message is.
