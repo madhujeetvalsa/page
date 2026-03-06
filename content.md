@@ -10,7 +10,7 @@ miru nannu nandini akka wedding lo chuside kaochu. This was the first time ninu 
 
 First time ninu mimal ni nandini akka haldi lo chuside, miru anni panulu as decoration ninchi flower selection, anni panulu and at last mi dance kuda. That's first time ninu mimalni observe chesinde. and I don't know but ae do ##happiness## feel ayindi and next time ninu ankunka ki ninu miku wedding hall lo ne chusta but.
 
-Second time ninu ankuna ki ninu mitoni matladaniki try chesta at wedding hall. But ##god's have different plan.## Ninu I don't know but morning lone Ram toni i guess mi house ke ochinde and there I see Second time and I seen that's miru and me friend only both mire wedding dress prepare chestande, endukante naku guda okka sister undhi but ninu single time kuda observe cheyale without my mummy na sister epudu prepare kale for any function and miru wedding dress prepare chestande. And then ninu wedding hall lo chana sepu wait chesina but miru rale and then after some time miru wedding hall lo enter aayaru.
+Second time ninu ankuna ki ninu mitoni matladaniki try chesta at wedding hall. But ##god's have different plan.## Ninu I don't know but morning lone Ram toni i guess mi house ke ochinde and there I see Second time and I seen that's miru and me friend only both mire wedding dress prepare chestande. And then ninu wedding hall lo chana sepu wait chesina but miru rale and then after some time miru wedding hall lo enter aayaru.
 
 And one thing I am really sorry, ee words ninu mimal ni wedding hall lo ne cheputa ankunde but enough confidence rale mito matladaniki as ##"You looks so beautiful in that saree 🧿".##
 
@@ -24,7 +24,7 @@ At the end ninu ankuna ki I ##lost## her but last time try chesi sudam ani ninu 
 
 And then akka mitoni matladindi and miru annnaru i want to focus on my studies that's one points also ##hits## me. I am also completed my graduation in B.tech Computer Engineering I know ki studies is equal importance. Naku kuda okka sister undi I want ke she also completed that's studies first. ninu miku studies lo epudu any ##blocker## ranivanu.
 
-I know ki ninu miku wrong time lo kalisinamu but miku kida telusu ke a right person is always come at wrong time only. I want that you trust me, only one time try to understand me, I will be there for you at any place.
+I know ki ninu miku wrong time lo kalisinamu but I want that you trust me, only one time try to understand me, I will be there for you at any place.
 
 Ninu mimal toni matladaniki try chesina naku ee confidence undi ki I don't have enough confidence mimal toni matladaniki that's why I write this message.
 
@@ -48,7 +48,7 @@ But at last ninu chala ne wedding attend chesina close once nichali, friends and
 
 At last , If mi decision na favor lo undani or against of my favor. But I will respect your decision endukante Ma parents nerpichinaru ki Respect every girl.
 
-Thank you so much, to introduce that's feelings that's I can't experience in my past that's why thank you once again 🪷💝🌺
+Thank you so much, to introduce that's best feelings that's I can't experience in my past that's why thank you once again 🪷💝🌺
 
 ---
 
