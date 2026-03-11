@@ -1,4 +1,6 @@
-import type { Metadata } from "next";
+"use client";
+
+import { createContext, useState, useContext } from "react";
 import { Geist, Geist_Mono, Kalam, Caveat } from "next/font/google";
 import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Analytics } from "@vercel/analytics/next"
@@ -26,25 +28,40 @@ const caveat = Caveat({
   weight: ["400", "700"],
 });
 
-export const metadata: Metadata = {
-  title: "Feelings in My Words",
-  description: "Feelings in My Words",
-};
+// Context for sharing data availability state across the app
+const DataAvailabilityContext = createContext<{
+  isDataAvailable: boolean;
+  setIsDataAvailable: (value: boolean) => void;
+}>({
+  isDataAvailable: false,
+  setIsDataAvailable: () => {},
+});
+
+// Custom hook to easily access the data availability state
+export function useDataAvailability() {
+  return useContext(DataAvailabilityContext);
+}
 
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  // Main state: Change this to true/false to control data availability
+  const [isDataAvailable, setIsDataAvailable] = useState(true);
+
   return (
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${kalam.variable} ${caveat.variable} antialiased`}
       >
-        <SpeedInsights />
-        {children}
-        <Analytics />
+        <DataAvailabilityContext.Provider value={{ isDataAvailable, setIsDataAvailable }}>
+          <SpeedInsights />
+          {children}
+          <Analytics />
+        </DataAvailabilityContext.Provider>
       </body>
     </html>
   );
 }
+

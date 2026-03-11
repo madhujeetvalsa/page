@@ -1,31 +1,101 @@
-import fs from "fs";
-import path from "path";
-import matter from "gray-matter";
-import Link from "next/link";
+"use client";
+
+import { useEffect, useState } from "react";
+import { useDataAvailability } from "./layout";
 
 export default function Home() {
-  // Read the content.md file
-  const filePath = path.join(process.cwd(), "content.md");
-  const fileContents = fs.readFileSync(filePath, "utf8");
+  // Get the shared state from layout
+  const { isDataAvailable, setIsDataAvailable } = useDataAvailability();
+  
+  // Local state for content and loading
+  const [content, setContent] = useState("");
+  const [loading, setLoading] = useState(true);
 
-  // Parse the markdown file
-  const { content } = matter(fileContents);
+  // Update page title and favicon based on data availability
+  useEffect(() => {
+    // Update title
+    document.title = isDataAvailable ? "Feelings in My Words" : "Contact Admin/Owner";
 
-  // Extract title (first # heading)
+    // Remove old favicon and add new one
+    const existingFavicons = document.querySelectorAll("link[rel*='icon']");
+    existingFavicons.forEach(favicon => favicon.remove());
+
+    const favicon = document.createElement("link");
+    favicon.rel = "icon";
+    favicon.type = "image/svg+xml";
+    favicon.href = isDataAvailable 
+      ? `/icon.png?v=${Date.now()}` 
+      : `/logo.svg?v=${Date.now()}`;
+    
+    document.head.appendChild(favicon);
+  }, [isDataAvailable]);
+
+  // Fetch content when data is available
+  useEffect(() => {
+    if (isDataAvailable) {
+      fetch("/api/content")
+        .then(res => res.json())
+        .then(data => {
+          setContent(data.content);
+          setLoading(false);
+        })
+        .catch(error => {
+          console.error("Error fetching content:", error);
+          setLoading(false);
+        });
+    } else {
+      setLoading(false);
+    }
+  }, [isDataAvailable]);
+
+  // Show "No Data Available" message
+  if (!isDataAvailable) {
+    return (
+      <div className="notebook-page">
+        <div className="notebook-container">
+          <div className="margin-line"></div>
+          <div className="notebook-content">
+            <h1 className="notebook-title" style={{ textAlign: "center", marginTop: "4rem" }}>
+              No Data Available
+            </h1>
+            <p className="notebook-text" style={{ textAlign: "center", fontSize: "1.1rem", marginTop: "2rem" }}>
+              There is no data available at this temporary time.
+              <br />
+              Please contact the admin or owner.
+            </p>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  // Show loading state
+  if (loading) {
+    return (
+      <div className="notebook-page">
+        <div className="notebook-container">
+          <div className="margin-line"></div>
+          <div className="notebook-content">
+            <p className="notebook-text" style={{ textAlign: "center", marginTop: "4rem" }}>
+              Loading...
+            </p>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  // Parse markdown content
   const titleMatch = content.match(/^#\s+(.+)/m);
   const title = titleMatch ? titleMatch[1] : "My Notebook";
 
-  // Extract date
   const dateMatch = content.match(/\*\*Date:\*\*\s*(.+)/);
-  const date = dateMatch
-    ? dateMatch[1]
-    : new Date().toLocaleDateString("en-US", {
-        year: "numeric",
-        month: "long",
-        day: "numeric",
-      });
+  const date = dateMatch ? dateMatch[1] : new Date().toLocaleDateString("en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
 
-  // Extract signature if exists
   const signatureMatch = content.match(/\*\*Signature:\*\*\s*(.+)/);
   const signature = signatureMatch ? signatureMatch[1] : "Written with care";
 
@@ -44,25 +114,19 @@ export default function Home() {
     .map((p) => p.trim())
     .filter((p) => p.length > 0 && !p.startsWith("#") && !p.startsWith("**"));
 
+  // Show normal content
   return (
     <div className="notebook-page">
-      {/* Notebook Container */}
       <div className="notebook-container">
-        {/* Left margin line */}
         <div className="margin-line"></div>
-
-        {/* Content Area */}
         <div className="notebook-content">
-          {/* Title */}
           <h1 className="notebook-title">{title}</h1>
-
-          {/* Date */}
           <p className="notebook-date">{date}</p>
-
-          {/* Paragraphs */}
+          
           {paragraphs.map((paragraph, index) => {
-            // Parse ##highlight## and [text](url) syntax
-            const parts = paragraph.split(/(##.*?##|\[.*?\]\(.*?\))/g);
+            // Parse ##highlight## syntax
+            const parts = paragraph.split(/(##.*?##)/g);
+            
             return (
               <p key={index} className="notebook-text">
                 {parts.map((part, i) => {
@@ -73,23 +137,12 @@ export default function Home() {
                       </span>
                     );
                   }
-
-                  const linkMatch = part.match(/\[(.*?)\]\((.*?)\)/);
-                  if (linkMatch) {
-                    return (
-                      <a key={i} href={linkMatch[2]} className="notebook-link">
-                        {linkMatch[1]}
-                      </a>
-                    );
-                  }
-
                   return part;
                 })}
               </p>
             );
           })}
-
-          {/* Signature */}
+          
           <p className="notebook-signature">{signature}</p>
         </div>
       </div>
