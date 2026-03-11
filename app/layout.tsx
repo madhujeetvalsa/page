@@ -48,7 +48,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   // Main state: Change this to true/false to control data availability
-  const [isDataAvailable, setIsDataAvailable] = useState(true);
+  const [isDataAvailable, setIsDataAvailable] = useState(false);
 
   return (
     <html lang="en">
